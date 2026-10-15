@@ -1,4 +1,4 @@
-Gilded Forest is a terminal color scheme for programming and note-taking.
+Gilded Forest is a terminal color scheme for programming and note-taking. Now available on [Terminal Themes](https://terminalthemes.com/themes/gilded-forest-dark).
 
 ## Dark
 ![Example of the Gilded Forest Dark Color Scheme](./images/Gilded-Forest-Dark.png)
